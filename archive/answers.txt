@@ -111,3 +111,5 @@ YOU HAVE BEEN WARNED
 2025|07|30|HERTA|HERTA|HONKAI: STAR RAIL|https://drive.google.com/thumbnail?id=13SGfh5kFBJ_Wd58DHJwdl4wQT7FEoHd5&sz=w1000
 2025|07|31|AKUMA|AKUMA|STREET FIGHTER II|https://drive.google.com/thumbnail?id=180ai_PBvB85_wrakiW4yb3UY7BFY0Bh_&sz=w1000
 2025|08|01|NEEKO|NEEKO|LEAGUE OF LEGENDS|https://drive.google.com/thumbnail?id=1ZbKn4nDUCFQeEp5VFlzy8jCfSlDqKUuI&sz=w1000
+2025|08|02|NAOTO|NAOTO SHIROGANE|PERSONA 4|https://drive.google.com/thumbnail?id=1ucb4A9cWNo-gxRsPIH-zcXg2RLtGyumu&sz=w1000
+2025|08|03|HINOA|HINOA|MONSTER HUNTER RISE|https://drive.google.com/thumbnail?id=1c1qOAbbQCKUBGo4eYEy9kFBlvoJdfZMi&sz=w1000
