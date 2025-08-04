@@ -114,3 +114,7 @@ YOU HAVE BEEN WARNED
 2025|08|02|NAOTO|NAOTO SHIROGANE|PERSONA 4|https://drive.google.com/thumbnail?id=1ucb4A9cWNo-gxRsPIH-zcXg2RLtGyumu&sz=w1000
 2025|08|03|HINOA|HINOA|MONSTER HUNTER RISE|https://drive.google.com/thumbnail?id=1c1qOAbbQCKUBGo4eYEy9kFBlvoJdfZMi&sz=w1000
 2025|08|04|SHULK|SHULK|XENOBLADE CHRONICLES|https://drive.google.com/thumbnail?id=1uiJPN_YmvdnqlNPPioiTVoMvuh89wwhR&sz=w1000
+2025|08|05|TIDUS|TIDUS|FINAL FANTASY X|https://drive.google.com/thumbnail?id=1A-Jy_o81ToFr4kv7MF3ypTGrJaomU5Dy&sz=w1000
+2025|08|06|FRISK|FRISK|UNDERTALE|https://drive.google.com/thumbnail?id=1AfuZCHxkYVu7R5AWHBEVUMuebeHW-rSu&sz=w1000
+2025|08|07|FALCO|FALCO LOMBARDI|STAR FOX|https://drive.google.com/thumbnail?id=1lZ1NYNaD_iKH0k3n9fF9aomAevBP4qfI&sz=w1000
+2025|08|08|ALISA|ALISA REINFORD|TRAILS OF COLD STEEL|https://drive.google.com/thumbnail?id=16nVrBR2Ef-YUZqtJwXt2tOMQHvXQdBnm&sz=w1000
