@@ -120,3 +120,9 @@ YOU HAVE BEEN WARNED
 2025|08|08|ALISA|ALISA REINFORD|TRAILS OF COLD STEEL|https://drive.google.com/thumbnail?id=16nVrBR2Ef-YUZqtJwXt2tOMQHvXQdBnm&sz=w1000
 2025|08|09|PEACH|PRINCESS PEACH|SUPER MARIO (SERIES)|https://drive.google.com/thumbnail?id=1cb3QuthDsaDmzNhWgzl1vNbT3nMNnUx8&sz=w1000
 2025|08|10|HANZO|HANZO|OVERWATCH|https://drive.google.com/thumbnail?id=1DS2G-aarVZohKljmXJZ7MRngXm2mnEYU&sz=w1000
+2025|08|11|ANSEM|ANSEM, SEEKER OF DARKNESS|KINGDOM HEARTS|https://drive.google.com/thumbnail?id=1AYZ7qTKf0PRW7CJJ9JzgGzP_OCsmUoxF&sz=w1000
+2025|08|12|CIRNO|CIRNO|TOUHOU PROJECT|https://drive.google.com/thumbnail?id=13I4OarEe5wQACxEvkUbNRhy-qIj47vhY&sz=w1000
+2025|08|13|QUOTE|QUOTE|CAVE STORY|https://drive.google.com/thumbnail?id=10qtP-8itPlRYKSA1bIeCJh-k54U7g17W&sz=w1000
+2025|08|14|CHRIS|CHRIS REDFIELD|RESIDENT EVIL|https://drive.google.com/thumbnail?id=1oBtvCS_gYIWO5gc8436T9js8KIM-ZR9I&sz=w1000
+2025|08|15|WEISS|GRIMOIRE WEISS|NIER|https://drive.google.com/thumbnail?id=1my_bNKrp71TBZM9TKU92uq_vkFmtt2hy&sz=w1000
+2025|08|16|ARVEN|ARVEN|POKÉMON SCARLET AND PURPLE|https://drive.google.com/thumbnail?id=1b8lyJH_xr-Fd2ofeoMeYUTqWwMfi_iRE&sz=w1000
