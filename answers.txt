@@ -127,3 +127,5 @@ YOU HAVE BEEN WARNED
 2025|08|15|WEISS|GRIMOIRE WEISS|NIER|https://drive.google.com/thumbnail?id=1my_bNKrp71TBZM9TKU92uq_vkFmtt2hy&sz=w1000
 2025|08|16|ARVEN|ARVEN|POKÉMON SCARLET AND PURPLE|https://drive.google.com/thumbnail?id=1b8lyJH_xr-Fd2ofeoMeYUTqWwMfi_iRE&sz=w1000
 2025|08|17|ANNIE|ANNIE|SKULLGIRLS|https://drive.google.com/thumbnail?id=1bn2N6j73EmslCReXeegBWj_X1qPSb3BI&sz=w1000
+2025|08|18|FUNKY|FUNKY KONG|DONKEY KONG COUNTRY|https://drive.google.com/thumbnail?id=1gcDa11z83JhZvvHLHl1XHMfo5atn4B0G&sz=w1000
+2025|08|19|FRANK|FRANK WEST|DEAD RISING|https://drive.google.com/thumbnail?id=127VF_lEcNxXLwfGld-JzQ4Wfkbk98UU9&sz=w1000
