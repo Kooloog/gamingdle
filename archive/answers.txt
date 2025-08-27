@@ -137,3 +137,4 @@ YOU HAVE BEEN WARNED
 2025|08|25|SCOUT|SCOUT|TEAM FORTRESS 2|https://drive.google.com/thumbnail?id=1NK9caDkGrebg20vGltCJjZKngfCr4zZW&sz=w1000
 2025|08|26|ELENA|ELENA|STREET FIGHTER III|https://drive.google.com/thumbnail?id=15Dackh9aaz6laGhcrWJGGenUPvyd-D7L&sz=w1000
 2025|08|27|ALICE|ALICE LIDDELL|AMERICAN MCGEE'S ALICE|https://drive.google.com/thumbnail?id=1Ftjd57W4evRIfG19Q1KK7fJzsu9MYCXL&sz=w1000
+2025|08|28|BANJO|BANJO|BANJO-KAZOOIE|https://drive.google.com/thumbnail?id=1m07TcUfdxA4TZATIB7Hy8LsvKGu55zdX&sz=w1000
