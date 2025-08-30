@@ -140,3 +140,4 @@ YOU HAVE BEEN WARNED
 2025|08|28|BANJO|BANJO|BANJO-KAZOOIE|https://drive.google.com/thumbnail?id=1m07TcUfdxA4TZATIB7Hy8LsvKGu55zdX&sz=w1000
 2025|08|29|PEARL|PEARL FEY|PHOENIX WRIGHT: ACE ATTORNEY - JUSTICE FOR ALL|https://drive.google.com/thumbnail?id=1J_o8qOWaqg3J91wKLnrYYkmHSMyE4HDD&sz=w1000
 2025|08|30|SIRIN|SIRIN|HONKAI IMPACT 3RD|https://drive.google.com/thumbnail?id=1tZA-CqTj6cuPW7KvKJfqiYD57VI55aOm&sz=w1000
+2025|08|31|BRAND|BRAND|LEAGUE OF LEGENDS|https://drive.google.com/thumbnail?id=1iGrgpGbXsFjrrVZVz6lBncXSTbp-jxZc&sz=w1000
