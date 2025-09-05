@@ -146,3 +146,5 @@ YOU HAVE BEEN WARNED
 2025|09|03|CINDY|CINDY AURUM|FINAL FANTASY XV|https://drive.google.com/thumbnail?id=1S1yRe-Ags8RZjnECY0oMrLIBJ9zNr-zu&sz=w1000
 2025|09|04|BETTY|BETTY LA BOMBA|PALADINS|https://drive.google.com/thumbnail?id=1PxnA-gIMJYeWaA2bLiJ_aMwxVKFpoHaA&sz=w1000
 2025|09|05|YELAN|YELAN|GENSHIN IMPACT|https://drive.google.com/thumbnail?id=1oH0Jcl4N-eqSKVuViBihEWYUCmKygUHe&sz=w1000
+2025|09|06|CLANK|CLANK|RATCHET AND CLANK|https://drive.google.com/thumbnail?id=1E1PdxSz3IoK10aYEjch9CWUgkoA6QvJ8&sz=w1000
+2025|09|07|JOKER|JOKER|PERSONA 5|https://drive.google.com/thumbnail?id=1MeKy9uFyLo2LnOGeBbZGRxRNItEuF04Q&sz=w1000
