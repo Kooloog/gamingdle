@@ -154,3 +154,5 @@ YOU HAVE BEEN WARNED
 2025|09|11|CAPPY|CAPPY|SUPER MARIO ODYSSEY|https://drive.google.com/thumbnail?id=17JepagbOfm1H3HgdM3v2nS53J1dC1boOP&sz=w1000
 2025|09|12|JUMIN|JUMIN HAN|MYSTIC MESSENGER|https://drive.google.com/thumbnail?id=1lFZgA7FsBFUxx6nRadW5NwBwjjFrAelx&sz=w1000
 2025|09|13|ARTIO|ARTIO|SMITE|https://drive.google.com/thumbnail?id=1ns-gDBLrcKDLxvEuo7KR8u4iCrmaL29p&sz=w1000
+2025|09|14|BLINX|BLINX THE CAT|BLINX: THE TIME SWEEPER|https://drive.google.com/thumbnail?id=10LJHImVP1L98yB793iBBcPF8FeFa5gvy&sz=w1000
+2025|09|15|VIPER|VIPER|VALORANT|https://drive.google.com/thumbnail?id=1wftS0YChcbklY0jbIf7MV2yqJ7O1Raxr&sz=w1000
