@@ -160,3 +160,5 @@ YOU HAVE BEEN WARNED
 2025|09|17|CYRUS|CYRUS|ANIMAL CROSSING: NEW LEAF|https://drive.google.com/thumbnail?id=19NgigQuNqJ4EO7WxTJ6KjeGZvLkhjTHq&sz=w1000
 2025|09|18|ISAAC|ISAAC|THE BINDING OF ISAAC|https://drive.google.com/thumbnail?id=1Da7yZUjtmaQSDld4drz1JR0FQa8cp_2O&sz=w1000
 2025|09|19|AKIRA|AKIRA YUKI|VIRTUA FIGHTER|https://drive.google.com/thumbnail?id=1s46hQwL9SSLPcnexapRaQoIG5KNtGNRG&sz=w1000
+2025|09|20|ELLIS|ELLIS|LEFT 4 DEAD 2|https://drive.google.com/thumbnail?id=1_PXJ2PscW6n3DrOk5OoABR1_tAyWvIpB&sz=w1000
+2025|09|21|CLARA|CLARA|HONKAI: STAR RAIL|https://drive.google.com/thumbnail?id=1yX1y-som2dk14d2i37-N-yOj0ULbXWm1&sz=w1000
